@@ -1,0 +1,19 @@
+.item{
+    border:1px solid #333;
+    width: 250px;
+    background-color: #fff;
+    border-radius: 4px;
+    padding:10px;
+}
+
+.item h5{
+    color:black;
+}
+
+.item .controls{
+    margin-top:12px;
+}
+
+.item .controls .btn-add{
+    margin-left:20px
+}
